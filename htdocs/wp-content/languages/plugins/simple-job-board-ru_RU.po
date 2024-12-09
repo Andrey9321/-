@@ -1,0 +1,1259 @@
+# Translation of Plugins - Simple Job Board - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Simple Job Board - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-05-08 22:21:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Simple Job Board - Stable (latest release)\n"
+
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:90
+msgid "Note: The new added field will be shown when you add a new job, it will not be shown in the existing jobs."
+msgstr "Добавленное поле будет отображаться при добавлении новой вакансии, оно не будет отображаться в существующих вакансиях."
+
+#: templates/v1/listing/job-listings-start.php:33
+#: templates/v2/listing/job-listings-start.php:31
+msgid "Clear Results"
+msgstr "Очистить результаты"
+
+#: admin/settings/class-simple-job-board-settings-general.php:229
+msgid "Custom"
+msgstr "Произвольно"
+
+#: admin/class-simple-job-board-widgets-dashboard.php:201
+#: includes/posttypes/class-simple-job-board-post-type-applicants.php:90
+msgid "Applications"
+msgstr "Соискатели"
+
+#: admin/class-simple-job-board-widgets-dashboard.php:217
+msgid "View All Applications"
+msgstr "Просмотр всех соискателей"
+
+#: admin/class-simple-job-board-widgets-dashboard.php:156
+msgid "New Applications"
+msgstr "Новые соискатели"
+
+#: admin/class-simple-job-board-widgets-dashboard.php:166
+msgid "All Applications"
+msgstr "Все соискатели"
+
+#: includes/posttypes/class-simple-job-board-post-type-applicants.php:155
+msgid "Actions"
+msgstr "Действия"
+
+#: templates/v1/single-jobpost/job-application.php:275
+#: templates/v1/single-jobpost/job-application.php:279
+#: templates/v1/single-jobpost/job-application.php:285
+#: templates/v1/single-jobpost/job-application.php:306
+#: templates/v1/single-jobpost/job-application.php:312
+#: templates/v1/single-jobpost/job-application.php:322
+#: templates/v2/single-jobpost/job-application.php:271
+#: templates/v2/single-jobpost/job-application.php:275
+#: templates/v2/single-jobpost/job-application.php:281
+#: templates/v2/single-jobpost/job-application.php:302
+#: templates/v2/single-jobpost/job-application.php:308
+#: templates/v2/single-jobpost/job-application.php:318
+msgid "%s"
+msgstr "%s"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:116
+#: public/partials/simple-job-board-template-functions.php:768
+#: public/partials/simple-job-board-template-functions.php:773
+msgid "Apply Now"
+msgstr "Отправить заявку"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:423
+msgid "Please use ID name without #"
+msgstr "Используйте ID имени без #"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:597
+#: admin/wizard/wizard-job-data.php:128
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:611
+#: admin/wizard/wizard-job-data.php:133
+msgid "Classic Layout"
+msgstr "Классический макет"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:616
+#: admin/wizard/wizard-job-data.php:138
+msgid "Modern Layout"
+msgstr "Современный макет"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-features.php:174
+#: admin/settings/class-simple-job-board-settings-job-features.php:186
+msgid "Icon"
+msgstr "Значок"
+
+#: admin/settings/class-simple-job-board-settings-upload-file-extensions.php:144
+msgid "PDF"
+msgstr "PDF"
+
+#: admin/settings/class-simple-job-board-settings-upload-file-extensions.php:169
+msgid "Doc"
+msgstr "Doc"
+
+#: admin/settings/class-simple-job-board-settings-upload-file-extensions.php:194
+msgid "Docx"
+msgstr "Docx"
+
+#: admin/settings/class-simple-job-board-settings-upload-file-extensions.php:219
+msgid "Odt"
+msgstr "Odt"
+
+#: admin/settings/class-simple-job-board-settings-upload-file-extensions.php:244
+msgid "Rtf"
+msgstr "Rtf"
+
+#: admin/settings/class-simple-job-board-settings-upload-file-extensions.php:268
+msgid "Text"
+msgstr "Текст"
+
+#: admin/wizard/wizard-get-ready.php:117
+#: admin/wizard/wizard-job-application-data.php:159
+#: admin/wizard/wizard-job-data.php:190
+msgid "Back"
+msgstr "Назад"
+
+#: admin/wizard/wizard-job-data.php:191
+msgid "Continue"
+msgstr "Продолжить"
+
+#: admin/wizard/wizard-tabs.php:15
+msgid "by "
+msgstr "от"
+
+#: admin/wizard/wizard-tabs.php:20
+msgid "Get Started"
+msgstr "Начать"
+
+#: admin/wizard/wizard-tabs.php:21
+msgid "Select Plugin"
+msgstr "Выбор плагина"
+
+#: admin/wizard/wizard-tabs.php:24
+msgid "Fill Job Data"
+msgstr "Заполните данные вакансии"
+
+#: admin/wizard/wizard-tabs.php:25 admin/wizard/wizard-tabs.php:29
+#: admin/wizard/wizard-tabs.php:33
+msgid "Required Information"
+msgstr "Требуемая информация"
+
+#: admin/wizard/wizard-tabs.php:28
+msgid "Application Form"
+msgstr "Форма соискателя"
+
+#: admin/wizard/wizard-get-ready.php:11 admin/wizard/wizard-tabs.php:32
+msgid "Get Ready"
+msgstr "Готовы?"
+
+#: admin/wizard/wizard-job-application-data.php:11
+msgid "Job Application Form"
+msgstr "Заявка на вакансию"
+
+#: admin/wizard/wizard-get-started.php:14
+msgid "Explore Settings"
+msgstr "Посмотреть настройки"
+
+#: admin/wizard/wizard-get-started.php:17
+msgid "Next"
+msgstr "Далее"
+
+#: admin/wizard/wizard-get-ready.php:16
+msgid "Get Support"
+msgstr "Получить поддержку"
+
+#: admin/wizard/wizard-get-ready.php:30 admin/wizard/wizard-get-ready.php:37
+#: admin/wizard/wizard-get-ready.php:44 admin/wizard/wizard-get-ready.php:51
+#: admin/wizard/wizard-get-ready.php:58
+msgid "Download Now"
+msgstr "Скачать сейчас"
+
+#: admin/wizard/wizard-get-ready.php:22
+msgid "PressTigers Plugins"
+msgstr "Плагины от PressTigers"
+
+#: admin/wizard/wizard-get-ready.php:50
+msgid "Simple Owl Carousel"
+msgstr "Simple Owl Carousel"
+
+#: admin/wizard/wizard-get-ready.php:57
+msgid "Simple Testimonials Showcase"
+msgstr "Simple Testimonials Showcase"
+
+#: admin/wizard/wizard-get-ready.php:72 admin/wizard/wizard-get-ready.php:84
+#: admin/wizard/wizard-get-ready.php:96 admin/wizard/wizard-get-ready.php:108
+msgid "Go to Market Place"
+msgstr "Перейти к магазину"
+
+#: admin/wizard/wizard-get-ready.php:118
+msgid "Finish"
+msgstr "Завершить"
+
+#: admin/wizard/wizard-get-ready.php:94
+msgid "How to Apply Add-on"
+msgstr "Как использовать дополнение"
+
+#: admin/wizard/wizard-get-started.php:13
+msgid "Simple Job Board by PressTigers is an easy, light weight plugin that adds a job board to your WordPress website."
+msgstr "Simple Job Board от PressTigers - это простой и невесомый плагин, который позволяет создать доску объявлений о вакансиях на сайте WordPress."
+
+#: admin/wizard/wizard-get-ready.php:106
+msgid "Multiple Attachment Fields Add-on"
+msgstr "Дополнение множественных вложений"
+
+#: admin/wizard/wizard-get-ready.php:17
+msgid "Submit your ticket and get support on your queries."
+msgstr "Отправьте свой запрос и получите поддержку."
+
+#: admin/wizard/wizard-get-ready.php:29
+msgid "Flexy BreadCrumb"
+msgstr "Гибкая цепочка навигации"
+
+#: admin/wizard/wizard-get-ready.php:36
+msgid "Simple Event Planner"
+msgstr "Simple Event Planner"
+
+#: admin/wizard/wizard-get-ready.php:43
+msgid "Simple Folio"
+msgstr "Simple Folio"
+
+#: admin/wizard/wizard-get-ready.php:70
+msgid "Frontend Job Posting Add-on"
+msgstr "Дополнение для публикации вакансии из фронтэнда"
+
+#: admin/wizard/wizard-get-ready.php:82
+msgid "Email Attachment Add-on"
+msgstr "Дополнение для вложений писем"
+
+#: admin/class-simple-job-board-admin-settings-init.php:162
+msgid "Wizard"
+msgstr "Помощник"
+
+#: includes/class-simple-job-board-notifications.php:258
+msgid "Hi %s"
+msgstr "Привет, %s!"
+
+#: includes/class-simple-job-board-notifications.php:316
+msgid "Dear %s,"
+msgstr "Уважаемый(ая) %s,"
+
+#: includes/class-simple-job-board-notifications.php:314
+msgid "HR"
+msgstr "Эйчар"
+
+#: admin/class-simple-job-board-admin.php:220
+msgid "Select Color"
+msgstr "Выберите цвет"
+
+#: admin/class-simple-job-board-admin.php:221
+msgid "Color value"
+msgstr "Значение цвета"
+
+#: admin/class-simple-job-board-admin.php:217
+msgid "Clear color"
+msgstr "Очистить цвет"
+
+#: admin/class-simple-job-board-admin.php:218
+msgid "Default"
+msgstr "По умолчанию"
+
+#: admin/class-simple-job-board-admin.php:219
+msgid "Select default color"
+msgstr "Выбрать цвет по умолчанию"
+
+#: admin/class-simple-job-board-admin.php:216
+msgid "Clear"
+msgstr "Очистить"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:76
+#: sjb-block/dist/blocks.build.js:1 sjb-block/src/block/block.js:40
+msgid "Job Listing"
+msgstr "Вакансия"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:499
+#: admin/wizard/wizard-job-data.php:177
+msgid "Remove"
+msgstr "Удалить"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:473
+#: admin/wizard/wizard-job-data.php:160
+msgid "Loader Image"
+msgstr "Загрузчик изображений"
+
+#: includes/class-simple-job-board-ajax.php:422
+msgid "Maximum upload File size allowed "
+msgstr "Максимальный размер загружаемого файла "
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:43
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:62
+#: admin/wizard/wizard-job-application-data.php:17
+msgid "Section Heading"
+msgstr "Заголовок раздела"
+
+#: admin/class-simple-job-board-admin.php:189
+msgid "Please add options for this field."
+msgstr "Добавьте параметры для этого поля."
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:503
+#: admin/wizard/wizard-job-data.php:181
+msgid "Only supported formate is .gif"
+msgstr "Поддерживается только gif-формат"
+
+#: includes/class-simple-job-board-privacy-exporter.php:182
+#: includes/class-simple-job-board-privacy-exporter.php:198
+msgid "Unable to add data to export file."
+msgstr "Невозможно добавить данные к файлу экспорта."
+
+#. Translators: %s Application ID.
+#: includes/class-simple-job-board-privacy-eraser.php:81
+msgid "Personal data within application %s has been retained."
+msgstr "Персональные данные в заявке %s сохранены."
+
+#. Translators: %s Application ID.
+#: includes/class-simple-job-board-privacy-eraser.php:76
+msgid "Removed personal data from application  %s."
+msgstr "Персональные данные из заявки %s удалены."
+
+#: includes/class-simple-job-board-privacy-eraser.php:39
+msgid "Applicant Data Eraser"
+msgstr "Стиратель данных соискателя"
+
+#: admin/settings/class-simple-job-board-settings-privacy.php:48
+msgid "Privacy"
+msgstr "Конфиденциальность"
+
+#: admin/settings/class-simple-job-board-settings-privacy.php:199
+msgid "Remove personal data from applications including resumes."
+msgstr "Удаление персональных данных из заявок, включая резюме."
+
+#: includes/class-simple-job-board-privacy-exporter.php:74
+msgid "Applicant Details"
+msgstr "Сведения о соискателе"
+
+#: admin/settings/class-simple-job-board-settings-privacy.php:94
+msgid "Configure Privacy Policy Settings"
+msgstr "Настройка параметров политики конфиденциальности"
+
+#: admin/settings/class-simple-job-board-settings-privacy.php:117
+msgid "Privacy Policy Label (Opt.)"
+msgstr "Ярлык политики конфиденциальности (опционально)"
+
+#: admin/settings/class-simple-job-board-settings-privacy.php:124
+msgid "Privacy Policy Content"
+msgstr "Содержание политики конфиденциальности"
+
+#: admin/settings/class-simple-job-board-settings-privacy.php:164
+msgid "Terms & Conditions Label (Opt.)"
+msgstr "Ярлык условий использовния (опционально)"
+
+#: admin/settings/class-simple-job-board-settings-privacy.php:170
+msgid "Terms & Conditions Content"
+msgstr "Содержимое условий использования"
+
+#: admin/settings/class-simple-job-board-settings-privacy.php:196
+msgid "Remove Personal Data Settings"
+msgstr "Удаление настроек личных данных"
+
+#: includes/class-simple-job-board-privacy-exporter.php:45
+msgid "Application Exporter"
+msgstr "Экспортёр заявок"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-application-status.php:44
+msgid "Status"
+msgstr "Статус"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-application-status.php:36
+#: includes/posttypes/class-simple-job-board-post-type-applicants.php:260
+msgid "In Process"
+msgstr "Обрабатывается"
+
+#: admin/class-simple-job-board-admin-add-ons.php:117
+msgid "Unable to locate required add-on?"
+msgstr "Не удается найти местоположение требуемого дополнения?"
+
+#: admin/class-simple-job-board-admin-add-ons.php:103
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-application-status.php:39
+#: includes/posttypes/class-simple-job-board-post-type-applicants.php:263
+msgid "Selected"
+msgstr "Выбрано"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-application-status.php:38
+#: includes/posttypes/class-simple-job-board-post-type-applicants.php:262
+msgid "Rejected"
+msgstr "Отклонено"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-application-status.php:34
+#: includes/posttypes/class-simple-job-board-post-type-applicants.php:264
+msgid "Not Any"
+msgstr "Ни одного"
+
+#: admin/class-simple-job-board-admin-meta-boxes-init.php:95
+#: includes/posttypes/class-simple-job-board-post-type-applicants.php:153
+msgid "Application Status"
+msgstr "Статус заявки"
+
+#: admin/class-simple-job-board-admin-add-ons.php:119
+msgid "Contact Us"
+msgstr "Контакты"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-application-status.php:35
+#: includes/posttypes/class-simple-job-board-post-type-applicants.php:259
+msgid "New"
+msgstr "Новое"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-application-status.php:37
+#: includes/posttypes/class-simple-job-board-post-type-applicants.php:261
+msgid "Shortlisted"
+msgstr "Избранное"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:241
+msgid "Job Pages Layout"
+msgstr "Шаблон страницы вакансии"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:258
+#: admin/wizard/wizard-job-data.php:92
+msgid "SJB Layout"
+msgstr "Макет SJB"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:268
+#: admin/wizard/wizard-job-data.php:97
+msgid "Theme Layout"
+msgstr "Макет темы"
+
+#: includes/posttypes/class-simple-job-board-post-type-applicants.php:94
+msgid "No %s found."
+msgstr "%s найти не удалось."
+
+#: includes/posttypes/class-simple-job-board-post-type-applicants.php:375
+msgid "All Jobs"
+msgstr "Все вакансии"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:204
+msgid "Job Applications"
+msgstr "Заявки на вакансию"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:231
+msgid "View Applications%s"
+msgstr "Просмотр заявок %s"
+
+#: includes/class-simple-job-board-resume-download-handler.php:120
+msgid "Login"
+msgstr "Вход"
+
+#: includes/class-simple-job-board-resume-download-handler.php:120
+msgid "You must be logged in to download files."
+msgstr "Авторизуйтесь для скачивания файлов."
+
+#: includes/class-simple-job-board-resume-download-handler.php:123
+msgid "This is not your download link."
+msgstr "Это не ваша ссылка для скачивания."
+
+#: includes/class-simple-job-board-resume-download-handler.php:123
+msgid "Go to Dashboard"
+msgstr "Консоль"
+
+#: includes/class-simple-job-board-notifications.php:387
+msgid "Good Luck!"
+msgstr "Удачи!"
+
+#: includes/class-simple-job-board-notifications.php:378
+msgid "Hi"
+msgstr "Привет"
+
+#: includes/class-simple-job-board-notifications.php:275
+msgid "Warm Regards,"
+msgstr "С уважением,"
+
+#: includes/class-simple-job-board-notifications.php:386
+msgid "based on their evaluation of your CV."
+msgstr "на основании их оценки вашего резюме."
+
+#: public/class-simple-job-board-public.php:143
+msgid "No file chosen"
+msgstr "Файл не выбран"
+
+#: public/class-simple-job-board-public.php:142
+msgid "Browse"
+msgstr "Обзор"
+
+#: includes/class-simple-job-board-resume-download-handler.php:71
+#: includes/class-simple-job-board-resume-download-handler.php:99
+msgid "File not found"
+msgstr "Файл не найден"
+
+#: includes/class-simple-job-board-notifications.php:260
+msgid "I am applying for the job post"
+msgstr "Я подаю заявку на должность"
+
+#: includes/class-simple-job-board-notifications.php:256
+#: includes/class-simple-job-board-notifications.php:343
+#: includes/class-simple-job-board-notifications.php:389
+msgid "Admin"
+msgstr "Администратор"
+
+#: includes/class-simple-job-board-notifications.php:342
+#: includes/class-simple-job-board-notifications.php:388
+msgid "Best Regards,"
+msgstr "С уважением,"
+
+#: includes/class-simple-job-board-notifications.php:327
+msgid "Please login to your account to download the CV or check from the applicant's list from the dashboard."
+msgstr "Пожалуйста, войдите в свою учетную запись, чтобы загрузить резюме или просмотреть в списке заявителей в панели инструментов."
+
+#: includes/class-simple-job-board-notifications.php:326
+#: includes/class-simple-job-board-notifications.php:386
+msgid "at"
+msgstr "в"
+
+#: admin/class-simple-job-board-widgets-recent-jobs.php:70
+msgid "All"
+msgstr "Все"
+
+#: admin/class-simple-job-board-widgets-recent-jobs.php:86
+msgid "Number of posts to display:"
+msgstr "Количество отображающихся записей:"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:414
+msgid "Enable SJB Fonts"
+msgstr "Включить шрифты SJB"
+
+#: admin/settings/class-simple-job-board-settings-upload-file-extensions.php:297
+msgid "Security rules have been updated since SJB version 2.4.3."
+msgstr "Правила безопасности обновлены с SJB версии 2.4.3."
+
+#: includes/class-simple-job-board-notifications.php:49
+#: includes/class-simple-job-board-notifications.php:84
+msgid "Applicant Resume Received %s "
+msgstr "Получено резюме соискателя %s"
+
+#: admin/class-simple-job-board-widgets-recent-jobs.php:61
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: admin/class-simple-job-board-widgets-recent-jobs.php:29
+msgid "Your site's most recent Jobs."
+msgstr "Свежие вакансии сайта."
+
+#: admin/class-simple-job-board-widgets-recent-jobs.php:31
+msgid "SJB Recent Jobs"
+msgstr "Свежие вакансии SJB"
+
+#: includes/class-simple-job-board-notifications.php:119
+msgid "Your Resume Received for Job %s "
+msgstr "Получено ваше резюме на вакансию %s "
+
+#: includes/class-simple-job-board-notifications.php:326
+msgid "has applied against your job opening"
+msgstr "прислал(а) резюме на вашу вакансию"
+
+#: includes/class-simple-job-board-notifications.php:260
+msgid "with interest. I have attached my resume with the job application. I have also filled out the required details."
+msgstr "с интересом. Мной было заполнена анкета отзыва на резюме, с приложением резюме."
+
+#: includes/class-simple-job-board-notifications.php:274
+msgid "I look forward to hearing from you."
+msgstr "Жду вашего ответа."
+
+#: includes/class-simple-job-board-notifications.php:386
+msgid "Your application for the position of"
+msgstr "Ваша заявка на резюме"
+
+#: includes/class-simple-job-board-notifications.php:386
+msgid "has been successfully submitted. You will hear back from"
+msgstr "была успешно отправлена. Вы получите ответ от"
+
+#: templates/v1/listing/content-no-jobs-found.php:40
+#: templates/v2/listing/content-no-jobs-found.php:35
+msgid "Back to Jobs Page"
+msgstr "Перейти на страницу вакансий"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:109
+#: public/partials/simple-job-board-template-functions.php:758
+#: public/partials/simple-job-board-template-functions.php:763
+msgid "Read More"
+msgstr "Подробнее"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:341
+msgid "Buttons Background Color"
+msgstr "Цвет фона кнопок"
+
+#: admin/class-simple-job-board-admin.php:190
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:136
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:204
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:245
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:222
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:265
+#: admin/wizard/wizard-job-application-data.php:110
+#: admin/wizard/wizard-job-application-data.php:150
+msgid "Expose in Applicant Listing"
+msgstr "Отобразить в Списке Заявителей"
+
+#: admin/class-simple-job-board-admin-add-ons.php:169
+#: admin/class-simple-job-board-admin-alerts.php:205
+msgid "Unknown error occurred"
+msgstr "Произошла неизвестная ошибка"
+
+#: includes/posttypes/class-simple-job-board-post-type-applicants.php:154
+msgid "Selected Information"
+msgstr "Выбранная информация"
+
+#: includes/posttypes/class-simple-job-board-post-type-applicants.php:154
+msgid "Default Applicant Name"
+msgstr "Имя соискателя по умолчанию"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:349
+msgid "Buttons Text Color"
+msgstr "Цвет текста кнопок"
+
+#: includes/class-simple-job-board-notifications.php:193
+msgid "Job Application"
+msgstr "Заявка на вакансию"
+
+#: includes/class-simple-job-board-notifications.php:193
+msgid "Job Application Acknowledgement"
+msgstr "Подтверждение заявки на вакансию"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:764
+#: admin/wizard/wizard-job-data.php:155
+msgid "Display Job Post without Company Logo"
+msgstr "Показывать страницу вакансии без логотипа компании"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:759
+#: admin/wizard/wizard-job-data.php:150
+msgid "Display Job Post with Company Logo"
+msgstr "Показывать страницу вакансии с логотипом компании"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:744
+#: admin/wizard/wizard-job-data.php:145
+msgid "Job Post Content"
+msgstr "Содержание Страницы Вакансии"
+
+#: admin/class-simple-job-board-admin-add-ons.php:49
+msgid "Add-ons"
+msgstr "Дополнения"
+
+#: admin/class-simple-job-board-admin-add-ons.php:49
+#: admin/class-simple-job-board-admin-add-ons.php:60
+msgid "Simple Job Board Add-ons"
+msgstr "Дополнения Simple Job Board"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:317
+msgid "Headings Color"
+msgstr "Цвет Заголовков"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:309
+msgid "Job Title Color"
+msgstr "Цвет заголовка Вакансии"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:357
+msgid "Pagination Background Color"
+msgstr "Цвет фона Пагинации"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:365
+msgid "Pagination Text Color"
+msgstr "Цвет текста Пагинации"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:325
+msgid "Font Awesome Icon Color"
+msgstr "Цвет иконки шрифта Awesome"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:333
+msgid "Font Awesome Text Color"
+msgstr "Цвет текста шрифта Awesome"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:53
+#: admin/wizard/wizard-job-data.php:87
+msgid "Appearance"
+msgstr "Внешний вид"
+
+#: admin/class-simple-job-board-admin-settings-init.php:333
+msgid "Settings have been saved."
+msgstr "Настройки сохранены."
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:667
+#: admin/wizard/wizard-job-data.php:122
+msgid "Display Job Listing without Job Detail"
+msgstr "Отображение вакансии без деталей"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:301
+msgid "Job Filters Background Color"
+msgstr "Цвет фона фильтра вакансий"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:398
+msgid "Content Wrapper Styling"
+msgstr "Оформление оболочки содержимого"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:428
+msgid "Job Board Container Class:"
+msgstr "Класс контейнера доски вакансий:"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:432
+msgid "Add classes seprated by space or comma e.g. container sjb-container or container,sjb-container"
+msgstr "Классы, разделяются пробелом или запятой, например: container sjb-container или container,sjb-container"
+
+#: templates/v1/listing/content-no-jobs-found.php:33
+#: templates/v1/listing/content-no-jobs-found.php:35
+#: templates/v2/listing/content-no-jobs-found.php:32
+msgid "No jobs found"
+msgstr "Вакансии не найдены."
+
+#: templates/v1/search/location-filter.php:29
+#: templates/v2/search/location-filter.php:29
+msgid "Location"
+msgstr "Местонахождение"
+
+#: templates/v1/search/category-filter.php:29
+#: templates/v2/search/category-filter.php:30
+msgid "Category"
+msgstr "Рубрика"
+
+#: admin/settings/class-simple-job-board-settings-general.php:84
+#: templates/archive-jobpost.php:56
+msgid "Job Archives"
+msgstr "Архив Вакансий"
+
+#: templates/v1/single-jobpost/job-application.php:360
+#: templates/v2/single-jobpost/job-application.php:357
+msgid "Submit"
+msgstr "Отправить"
+
+#: templates/v1/single-jobpost/job-application.php:145
+#: templates/v2/single-jobpost/job-application.php:142
+msgid "A valid phone number is required."
+msgstr "Требуется действительный номер телефона."
+
+#: templates/v1/single-jobpost/job-application.php:134
+#: templates/v2/single-jobpost/job-application.php:131
+msgid "A valid email address is required."
+msgstr "Требуется корректный адрес email."
+
+#: public/class-simple-job-board-public.php:134
+msgid "Your application could not be processed."
+msgstr "Ваша заявка не может быть обработана."
+
+#: admin/class-simple-job-board-admin.php:191
+#: public/class-simple-job-board-public.php:133
+msgid "This is not an allowed file extension."
+msgstr "Это недопустимое расширение файла."
+
+#: includes/class-simple-job-board-ajax.php:250
+#: public/class-simple-job-board-public.php:135
+msgid "Your application has been received. We will get back to you soon."
+msgstr "Ваша заявка была получена. Мы скоро свяжемся с Вами."
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:328
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:378
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:428
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:478
+msgid "Add or remove"
+msgstr "Добавить или удалить"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:331
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:381
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:431
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:481
+msgid "Popular %s"
+msgstr "Популярный %s"
+
+#: admin/class-simple-job-board-admin.php:187
+msgid "Please fill out job feature."
+msgstr "Заполните требования к вакансии."
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:329
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:379
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:429
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:479
+msgid "Choose from most used"
+msgstr "Выберите из наиболее используемых"
+
+#: admin/class-simple-job-board-admin.php:188
+msgid "Please fill out application form field name."
+msgstr "Заполните название полей формы соискателя."
+
+#: admin/class-simple-job-board-admin.php:185
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:119
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:190
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:242
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:206
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:261
+#: admin/wizard/wizard-job-application-data.php:94
+#: admin/wizard/wizard-job-application-data.php:146
+msgid "Required"
+msgstr "Требуется"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:47
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:66
+#: admin/wizard/wizard-job-application-data.php:21
+msgid "Phone"
+msgstr "Телефон"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:46
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:65
+#: admin/wizard/wizard-job-application-data.php:20
+msgid "Email"
+msgstr "Email"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:638
+#: admin/wizard/wizard-job-data.php:102
+msgid "Job Listing Contents"
+msgstr "Содержимое вакансии"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:782
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:279
+#: admin/settings/class-simple-job-board-settings-email-notifications.php:138
+#: admin/settings/class-simple-job-board-settings-filters.php:124
+#: admin/settings/class-simple-job-board-settings-general.php:270
+#: admin/settings/class-simple-job-board-settings-job-features.php:205
+#: admin/settings/class-simple-job-board-settings-privacy.php:216
+#: admin/settings/class-simple-job-board-settings-upload-file-extensions.php:313
+#: admin/wizard/wizard-job-application-data.php:161
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:221
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:247
+#: admin/wizard/wizard-job-application-data.php:132
+msgid "Type"
+msgstr "Тип"
+
+#: admin/class-simple-job-board-admin-settings-init.php:172
+#: admin/class-simple-job-board-admin-settings-init.php:275
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:48
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:67
+#: admin/wizard/wizard-job-application-data.php:22
+#: includes/posttypes/class-simple-job-board-post-type-applicants.php:152
+msgid "Date"
+msgstr "Дата"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-data.php:84
+#: admin/settings/class-simple-job-board-settings-appearance.php:498
+#: admin/wizard/wizard-job-data.php:176
+msgid "Upload"
+msgstr "Загрузить"
+
+#: admin/settings/class-simple-job-board-settings-job-features.php:171
+msgid "Add New Feature"
+msgstr "Добавить новые \"Доп. сведения\""
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:270
+msgid "View %s"
+msgstr "Смотреть %s"
+
+#: templates/v1/search/keyword-search.php:32
+#: templates/v1/search/keyword-search.php:33
+#: templates/v2/search/keyword-search.php:32
+#: templates/v2/search/keyword-search.php:33
+msgid "Keywords"
+msgstr "Ключевые слова"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:413
+msgid "Job Location"
+msgstr "Местонахождение вакансии"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:314
+msgid "Job Categories"
+msgstr "Категории Работы"
+
+#: admin/settings/class-simple-job-board-settings-job-features.php:51
+#: templates/v1/single-jobpost/job-features.php:38
+#: templates/v2/listing/grid-view/long-description.php:25
+#: templates/v2/single-jobpost/job-features.php:39
+msgid "Job Features"
+msgstr "Особенности работы"
+
+#: templates/v1/single-jobpost/job-application.php:235
+#: templates/v2/single-jobpost/job-application.php:232
+msgid "Attach Resume"
+msgstr "Прикрепить Резюме"
+
+#: includes/posttypes/class-simple-job-board-post-type-applicants.php:253
+msgid "No Categories"
+msgstr "Нет Категорий"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:364
+msgid "Job Types"
+msgstr "Типы Вакансий"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:363
+#: templates/v1/search/type-filter.php:29
+#: templates/v2/search/type-filter.php:28
+msgid "Job Type"
+msgstr "Тип Вакансии"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:264
+msgid "Job Board"
+msgstr "Доска Вакансий"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:251
+msgid "Job"
+msgstr "Вакансия"
+
+#: includes/class-simple-job-board-applicants.php:84
+msgid "Resume"
+msgstr "Резюме"
+
+#: admin/class-simple-job-board-admin-meta-boxes-init.php:94
+msgid "Job Data"
+msgstr "Данные о работе"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-data.php:33
+msgid "Company Name"
+msgstr "Название компании"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:220
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:243
+#: admin/wizard/wizard-job-application-data.php:128
+msgid "Field"
+msgstr "Поле"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:247
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-features.php:195
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:267
+#: admin/settings/class-simple-job-board-settings-job-features.php:193
+#: admin/wizard/wizard-job-application-data.php:155
+msgid "Add Field"
+msgstr "Добавить поле"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:44
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:63
+#: admin/wizard/wizard-job-application-data.php:18
+msgid "Text Field"
+msgstr "Текстовое поле"
+
+#: admin/class-simple-job-board-admin.php:186
+#: admin/class-simple-job-board-admin.php:194
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:194
+#: admin/settings/class-simple-job-board-settings-job-features.php:132
+#: admin/wizard/wizard-job-application-data.php:82
+msgid "Field Name"
+msgstr "Название поля"
+
+#: admin/settings/class-simple-job-board-settings-general.php:75
+msgid "General Options"
+msgstr "Основные настройки"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:252
+msgid "Jobs"
+msgstr "Вакансии"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:45
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:64
+#: admin/wizard/wizard-job-application-data.php:19
+msgid "Text Area"
+msgstr "Текстовое поле"
+
+#: includes/class-simple-job-board-privacy-exporter.php:101
+#: includes/posttypes/class-simple-job-board-post-type-applicants.php:150
+msgid "Job Applied for"
+msgstr "Вакансия применима для"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:272
+msgid "No %s found"
+msgstr "%s не найдено"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:271
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:330
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:380
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:430
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:480
+msgid "Search %s"
+msgstr "Поиск %s"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:269
+msgid "New %s"
+msgstr "Новый %s"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:267
+msgid "Add %s"
+msgstr "Добавить %s"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:265
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:321
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:371
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:421
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:471
+msgid "All %s"
+msgstr "Все %s"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-data.php:36
+msgid "Company Logo"
+msgstr "Логотип компании"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-data.php:35
+msgid "Company Tagline"
+msgstr "Слоган компании"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-data.php:34
+msgid "Company Website"
+msgstr "Сайт компании"
+
+#: admin/settings/class-simple-job-board-settings-upload-file-extensions.php:292
+msgid "Enable all Extensions"
+msgstr "Включить все расширения"
+
+#. Author of the plugin
+#: simple-job-board.php admin/wizard/wizard-tabs.php:15
+msgid "PressTigers"
+msgstr "PressTigers"
+
+#. Description of the plugin
+#: simple-job-board.php
+msgid "Powerful & Robust plugin to create a Job Board on your website in simple & elegant way."
+msgstr "Мощный и надежный плагин для создания доски объявлений о вакансиях на вашем сайте простым и элегантным способом."
+
+#. Plugin Name of the plugin
+#: simple-job-board.php admin/wizard/wizard-get-started.php:12
+#: admin/wizard/wizard-tabs.php:14
+msgid "Simple Job Board"
+msgstr "Simple Job Board"
+
+#: templates/v1/listing/grid-view/posted-date.php:23
+#: templates/v1/listing/list-view/posted-date.php:23
+#: templates/v1/single-jobpost/job-meta/job-posted-date.php:23
+#: templates/v2/listing/grid-view/posted-date.php:23
+#: templates/v2/listing/list-view/posted-date.php:24
+#: templates/v2/single-jobpost/job-meta/job-posted-date.php:25
+msgid "Posted %s ago"
+msgstr "Размещено %s тому назад"
+
+#: includes/class-simple-job-board-notifications.php:323
+#: includes/class-simple-job-board-notifications.php:383
+msgid "Applicant"
+msgstr "Заявитель"
+
+#: includes/posttypes/class-simple-job-board-post-type-applicants.php:100
+msgid "List of %s with their resume."
+msgstr "Список %s с их резюме."
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:327
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:377
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:427
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:477
+msgid "Parent %s:"
+msgstr "Исходный %s:"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:325
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:375
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:425
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:475
+msgid "New %s Name"
+msgstr "Новое имя %s"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:324
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:374
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:424
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:474
+msgid "Add New %s"
+msgstr "Добавить новый %s"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:323
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:373
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:423
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:473
+msgid "Update %s"
+msgstr "Обновление %s"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:281
+msgid "This is where you can create and manage %s."
+msgstr "Здесь вы можете создавать и управлять %s."
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:274
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:326
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:376
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:426
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:476
+msgid "Parent %s"
+msgstr "Исходный %s"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-features.php:170
+#: admin/settings/class-simple-job-board-settings-job-features.php:179
+msgid "Value"
+msgstr "Значение"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:50
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:69
+#: admin/wizard/wizard-job-application-data.php:24
+msgid "Drop Down"
+msgstr "Выпадающий"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:51
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:70
+#: admin/wizard/wizard-job-application-data.php:25
+msgid "Radio"
+msgstr "Радио-кнопка"
+
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:87
+#: admin/wizard/wizard-job-application-data.php:31
+msgid "Default Application Form Fields"
+msgstr "Поля для формы соискателя по умолчанию"
+
+#: admin/settings/class-simple-job-board-settings-email-notifications.php:90
+msgid "HR Email:"
+msgstr "Email специалиста по кадрам:"
+
+#: admin/settings/class-simple-job-board-settings-email-notifications.php:98
+msgid "Enable the HR Email Notification"
+msgstr "Включить уведомления по email для специалиста по кадрам"
+
+#: admin/settings/class-simple-job-board-settings-email-notifications.php:77
+msgid "Enable Email Notification"
+msgstr "Включить уведомления по email"
+
+#: admin/settings/class-simple-job-board-settings-filters.php:99
+msgid "Enable the Search Bar"
+msgstr "Включить панель поиска"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:49
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:68
+#: admin/wizard/wizard-job-application-data.php:23
+msgid "Check Box"
+msgstr "Флажок"
+
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-features.php:169
+#: admin/settings/class-simple-job-board-settings-job-features.php:175
+msgid "Feature"
+msgstr "Возможность"
+
+#: admin/settings/class-simple-job-board-settings-job-features.php:90
+msgid "Default Feature List"
+msgstr "Список возможностей по умолчанию"
+
+#: admin/settings/class-simple-job-board-settings-email-notifications.php:50
+msgid "Email Notifications"
+msgstr "Уведомления по эл. почте"
+
+#: admin/class-simple-job-board-admin-meta-boxes-init.php:93
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:46
+msgid "Application Form Fields"
+msgstr "Поля формы соискателя"
+
+#: admin/settings/class-simple-job-board-settings-email-notifications.php:101
+msgid "Admin Email:"
+msgstr "Email администратора:"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:273
+msgid "No %s found in trash"
+msgstr "%s в корзине не найдено"
+
+#: includes/class-simple-job-board-applicants.php:182
+msgid "Application Notes"
+msgstr "Заметки соискателю"
+
+#: admin/class-simple-job-board-admin-meta-boxes-init.php:92
+msgid "%s Features"
+msgstr "Функции %s"
+
+#: admin/settings/class-simple-job-board-settings-upload-file-extensions.php:45
+#: admin/settings/class-simple-job-board-settings-upload-file-extensions.php:105
+msgid "Upload File Extensions"
+msgstr "Расширения загружаемого файла"
+
+#: includes/posttypes/class-simple-job-board-post-type-applicants.php:151
+msgid "Categories"
+msgstr "Рубрики"
+
+#: admin/class-simple-job-board-admin.php:184
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:123
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-application.php:193
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-features.php:114
+#: admin/meta-boxes/class-simple-job-board-meta-box-job-features.php:157
+#: admin/settings/class-simple-job-board-settings-application-form-fields.php:210
+#: admin/settings/class-simple-job-board-settings-job-features.php:151
+#: admin/wizard/wizard-job-application-data.php:98
+msgid "Delete"
+msgstr "Удалить"
+
+#: includes/posttypes/class-simple-job-board-post-type-applicants.php:93
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:268
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:322
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:372
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:422
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:472
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:520
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:554
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:586
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:652
+#: admin/wizard/wizard-job-data.php:107
+msgid "Display Job Listing with Company Logo and Job Detail"
+msgstr "Отображение деталей вакансии с логотипом компании"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:657
+#: admin/wizard/wizard-job-data.php:112
+msgid "Display Job Listing without Company Logo and Job Detail"
+msgstr "Отображение вакансии без деталей и логотипа компании"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:662
+#: admin/wizard/wizard-job-data.php:117
+msgid "Display Job Listing without Company Logo"
+msgstr "Отображение вакансии без логотипа компании"
+
+#: admin/settings/class-simple-job-board-settings-email-notifications.php:109
+msgid "Enable the Admin Email Notification"
+msgstr "Уведомление администратора по электропочте"
+
+#: admin/settings/class-simple-job-board-settings-email-notifications.php:113
+msgid "Enable the Applicant Email Notification"
+msgstr "Уведомление соискателя по электропочте"
+
+#: admin/settings/class-simple-job-board-settings-filters.php:45
+msgid "Filters"
+msgstr "Фильтры"
+
+#: admin/settings/class-simple-job-board-settings-filters.php:69
+msgid "Select filters that display on front-end"
+msgstr "Фильтры, которые будут отображаться во фронтэнде"
+
+#: admin/class-simple-job-board-widgets-recent-jobs.php:68
+msgid "Select Category:"
+msgstr "Выберите рубрику:"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:313
+#: templates/v1/single-jobpost/job-features.php:60
+#: templates/v2/listing/grid-view/long-description.php:30
+#: templates/v2/single-jobpost/job-features.php:66
+msgid "Job Category"
+msgstr "Рубрика вакансий"
+
+#: admin/settings/class-simple-job-board-settings-filters.php:84
+msgid "Enable the Job Category Filter"
+msgstr "Фильтр по рубрикам вакансий"
+
+#: admin/settings/class-simple-job-board-settings-filters.php:89
+msgid "Enable the Job Type Filter"
+msgstr "Фильтр по типам вакансий"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:414
+msgid "Job Locations"
+msgstr "Местонахождения вакансий"
+
+#: admin/settings/class-simple-job-board-settings-filters.php:94
+msgid "Enable the Job Location Filter"
+msgstr "Фильтр по местонахождениям вакансий"
+
+#: admin/settings/class-simple-job-board-settings-appearance.php:75
+#: admin/settings/class-simple-job-board-settings-general.php:52
+msgid "General"
+msgstr "Основные"
+
+#: includes/posttypes/class-simple-job-board-post-type-jobpost.php:266
+msgid "Add New"
+msgstr "Добавить"
